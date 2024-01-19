@@ -1,0 +1,10 @@
+h1 {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    text-align: center;
+}
+
+.row {
+    margin: 15px;
+}
